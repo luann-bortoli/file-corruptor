@@ -19,4 +19,4 @@ A simple JavaFX desktop application that corrupts files by modifying random byte
 ## Running the project
 1. Clone the repository
 2. Open it in IntelliJ / Eclipse
-3. Run the `Main.java` file
+3. Run "mvn clean javafx:run"
